@@ -1,4 +1,4 @@
-# @chittycorp/app-beacon
+# @chittycorp/chittybeacon
 
 Dead simple app tracking. Just require and forget.
 
