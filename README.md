@@ -5,7 +5,7 @@ Dead simple app tracking. Just require and forget.
 ## Installation
 
 ```bash
-npm install @chittycorp/app-beacon
+npm install @chittycorp/chittybeacon
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ npm install @chittycorp/app-beacon
 Add to your app's entry point:
 
 ```javascript
-require('@chittycorp/app-beacon');
+require('@chittycorp/chittybeacon');
 ```
 
 That's it! Your app will now report:
